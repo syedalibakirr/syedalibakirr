@@ -1,6 +1,6 @@
 # Syed Ali Bakir
 
-**Computer Science student at Rutgers University (B.S., May 2027) and startup founder who ships production full-stack software.**
+**Computer Science student at Rutgers New Brusnwick University (B.S., May 2027) and startup founder who ships production full-stack software.**
 
 I build AI-powered products end to end, from database schema to deployed frontend. Currently building [Triptic](https://triptic.ai), an AI platform that helps students craft stronger college applications and matches them with their best-fit counselor.
 
